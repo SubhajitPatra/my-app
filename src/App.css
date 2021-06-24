@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+.btn{
+  color: white;
+  font-size: 20px;
+  background-color: #507d2a;
+  padding: 20px;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  font-weight: bolder;
+  border-color: #507d2a;
+  margin: 10px;
+}
+.btn:hover{
+    color: #507d2a;
+    background-color: white;
+    font-weight: bolder;
+}
+.cnt{
+  color: red;
+  font-size: 40px;
+  margin: 10px;
+}
+.container{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
